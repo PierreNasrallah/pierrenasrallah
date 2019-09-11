@@ -3,20 +3,32 @@ body {
 	background: linear-gradient(to right, rgb(13, 198, 152), rgb(134, 143, 206));
 }
 
-/*h1 {
+h1 {
     font: 600 3.5em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
     width: 100%;
+    text-decoration: underline;
 }
 
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: silver;
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
 
-}*/
+}
+
+.App-header {
+  /*background-color: #282c34;*/
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  /*color: white;*/
+}
