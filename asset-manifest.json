@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/pierrenasrallah/static/css/main.e990435e.chunk.css",
-    "main.js": "/pierrenasrallah/static/js/main.582a3556.chunk.js",
-    "main.js.map": "/pierrenasrallah/static/js/main.582a3556.chunk.js.map",
+    "main.css": "/pierrenasrallah/static/css/main.f099f51a.chunk.css",
+    "main.js": "/pierrenasrallah/static/js/main.8a475e7a.chunk.js",
+    "main.js.map": "/pierrenasrallah/static/js/main.8a475e7a.chunk.js.map",
     "runtime~main.js": "/pierrenasrallah/static/js/runtime~main.77dfbbb4.js",
     "runtime~main.js.map": "/pierrenasrallah/static/js/runtime~main.77dfbbb4.js.map",
     "static/css/2.31dafeb2.chunk.css": "/pierrenasrallah/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.31dfd991.chunk.js": "/pierrenasrallah/static/js/2.31dfd991.chunk.js",
-    "static/js/2.31dfd991.chunk.js.map": "/pierrenasrallah/static/js/2.31dfd991.chunk.js.map",
+    "static/js/2.1a4f9bad.chunk.js": "/pierrenasrallah/static/js/2.1a4f9bad.chunk.js",
+    "static/js/2.1a4f9bad.chunk.js.map": "/pierrenasrallah/static/js/2.1a4f9bad.chunk.js.map",
     "index.html": "/pierrenasrallah/index.html",
-    "precache-manifest.d4ca552fc8c777e952f5ba1ab3834429.js": "/pierrenasrallah/precache-manifest.d4ca552fc8c777e952f5ba1ab3834429.js",
+    "precache-manifest.3d34cd116e0732f8248055b7b4cdb10e.js": "/pierrenasrallah/precache-manifest.3d34cd116e0732f8248055b7b4cdb10e.js",
     "service-worker.js": "/pierrenasrallah/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/pierrenasrallah/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.e990435e.chunk.css.map": "/pierrenasrallah/static/css/main.e990435e.chunk.css.map",
+    "static/css/main.f099f51a.chunk.css.map": "/pierrenasrallah/static/css/main.f099f51a.chunk.css.map",
     "static/media/RoboFriends.css": "/pierrenasrallah/static/media/SEGA.12a3db8b.woff",
     "static/media/bgGeneratorImage.png": "/pierrenasrallah/static/media/bgGeneratorImage.93db1ff5.png",
     "static/media/faceRecognitionImage.png": "/pierrenasrallah/static/media/faceRecognitionImage.962dad19.png",
     "static/media/pierre.jpg": "/pierrenasrallah/static/media/pierre.d5492d47.jpg",
-    "static/media/roboFriendsImage.png": "/pierrenasrallah/static/media/roboFriendsImage.dc694ed8.png"
+    "static/media/roboFriendsImage.png": "/pierrenasrallah/static/media/roboFriendsImage.dc694ed8.png",
+    "static/media/underconstruction.jpg": "/pierrenasrallah/static/media/underconstruction.431d1643.jpg"
   }
 }
